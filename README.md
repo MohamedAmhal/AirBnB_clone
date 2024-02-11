@@ -1,7 +1,7 @@
 AirBnB clone - The console:
 
  -description of the project:
-
+n
 This project involves developing a web application similar to Airbnb, but with a console-based interface. The main objective is to create the backend of the application, focusing on business logic and essential features, while allowing testing of these features through a console shell.
 
 Key Features:
