@@ -1,0 +1,18 @@
+header {
+    background-color: #FFFFFF;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.logo {
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 100%;
+    margin-left: 20px;
+}
